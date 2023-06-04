@@ -105,7 +105,7 @@ transition: all 0.3s ease-out;
 
 /* ============================= content ====================== */
 .page-section{position: relative; padding: 100px 0;}
-
+.social-footer-wrapper-text {color: white;}
 .title-left .title1{text-align: left;}
 .title-left .title2{text-align: left;}
 
